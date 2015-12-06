@@ -1,1 +1,1 @@
-{"version":3,"file":"wecmd.js","sourceRoot":"","sources":["../src/wecmd.ts"],"names":[],"mappings":"AAEA,OAAO,CAAC,GAAG,CAAC,OAAO,CAAC,IAAI,CAAC,CAAC"}
+{"version":3,"file":"wecmd.js","sourceRoot":"","sources":["../src/wecmd.ts"],"names":[],"mappings":"AACA,IAAO,OAAO,WAAW,WAAW,CAAC,CAAC;AAEtC,OAAO,CAAC,GAAG,CAAC,OAAO,CAAC,UAAU,CAAC,CAAC;AAChC,4BAA4B"}

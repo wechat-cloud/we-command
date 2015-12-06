@@ -1,3 +1,5 @@
 import commander = require('commander');
+import envInfo = require('./envInfo');
 
-console.log(process.argv);
+console.log(envInfo.workingDir);
+//console.log(process.argv);
