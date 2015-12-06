@@ -2,10 +2,19 @@
 	"name": "we-command",
 	"version": "0.1.0",
 	"description": "we-connect command line tools",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/wechat-cloud/we-command"
+	},
 	"authors": [
 		"Lu Rongkai<lurongkai@gmail.com>"
 	],
+  	"preferGlobal": true,
+	"bin": {
+		"wecmd": "bin/wecmd"
+	},
 	"dependencies": {
-		"command": "~0.0.5"
+		"commander": "~2.9.0"
 	}
 }

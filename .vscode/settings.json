@@ -5,6 +5,5 @@
 		"**/.DS_Store": true,
 		".gitignore": true,
 		".vscode": true,
-		"bin": true
 	}
 }
