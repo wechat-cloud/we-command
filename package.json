@@ -1,0 +1,11 @@
+{
+	"name": "we-command",
+	"version": "0.1.0",
+	"description": "we-connect command line tools",
+	"authors": [
+		"Lu Rongkai<lurongkai@gmail.com>"
+	],
+	"dependencies": {
+		"command": "~0.0.5"
+	}
+}
